@@ -16,6 +16,7 @@ Lecturers: Prof. Dr. Carmen Winter, Dr. Kay Schwieger, Prof. Dr. Gerhard Hellste
 Not part of this README.md
 
 ### 2. Installing
+- [get the Digital Annealing Development Kit (DADK)](https://www.fujitsu.com/de/themes/digitalannealer/get-started/)
 - clone repository and go to directory
 - build venv (virtual environment)
 `python -m venv .venv`
